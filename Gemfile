@@ -54,3 +54,5 @@ gem 'friendly_id', '~> 5.2', '>= 5.2.3'
 gem 'devise', '~> 4.4', '>= 4.4.1'
 gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
+
+gem 'drishinski_view_tool', git: 'https://github.com/ndrishinski/Drishinski_View_Tool'
