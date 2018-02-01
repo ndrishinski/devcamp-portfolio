@@ -56,3 +56,5 @@ gem 'bootstrap', '~> 4.0.0'
 gem 'jquery-rails'
 
 gem 'drishinski_view_tool', git: 'https://github.com/ndrishinski/Drishinski_View_Tool'
+
+gem 'petergate', '~> 1.8', '>= 1.8.1'
