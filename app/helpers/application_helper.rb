@@ -17,7 +17,7 @@ module ApplicationHelper
   end
 
   def copyright_generator
-    DrishinskiViewTool::Renderer.copyright 'Jordan Hudgens', 'All rights reserved'
+    DrishinskiViewTool::Renderer.copyright 'Nick Drishinski', 'All rights reserved'
   end
 
   def nav_items
