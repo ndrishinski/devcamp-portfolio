@@ -91,6 +91,7 @@ h6, .h6 {
   color: rgba(255,255,255,.5);
   background-color: transparent;
   border-bottom: .25rem solid transparent;
+  padding-bottom: 20px;
 }
 
 .nav-masthead .nav-link:hover,
@@ -150,7 +151,7 @@ h6, .h6 {
     top: 0;
   }
   .mastfoot {
-    position: fixed;
+    position: bottom fixed;
     bottom: 0;
   }
   /* Start the vertical centering */
@@ -236,6 +237,7 @@ h6, .h6 {
 .app-card-container {
   color: black;
   text-align: left;
+  padding-top: 100px;
 }
 
 .app-card-container > .card {
@@ -258,4 +260,13 @@ h6, .h6 {
 .skill {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.spacefiller {
+  margin-top: 200px;
+  bottom: 0;
+}
+
+#thisthing {
+  margin-top: 150px;
 }
